@@ -2,6 +2,7 @@
 For (hopefully) daily LeetCode solutions
 
 # Done
+- 712
 - 865
 - 960
 - 1161
